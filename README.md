@@ -14,7 +14,7 @@ Here are a few screenshots of my portfolio:
 
 ![4th Assignment](assets/images/jquery-assignment.png)
 
-![5th Assignment](assets/images/js-assignmenttwo.png)
+![5th Assignment](assets/images/trivia-game.png)
 
 ![6th Assignment](assets/images/giff-app.png)
 
